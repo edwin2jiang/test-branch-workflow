@@ -1,6 +1,6 @@
 {
   "name": "test-branch-workflow",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A minimal Electron + Vue application",
   "main": "build/main/main.js",
   "scripts": {
